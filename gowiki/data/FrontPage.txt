@@ -1,0 +1,3 @@
+Welcome to my Wiki made in Go!
+
+Here's a link to TestPage.txt TestPage michael derp
